@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: #451c7a;
+    color: #1b4965;
     font-size: 1.375rem;
     margin-top: 0;
 }
@@ -28,12 +28,13 @@ h3 {
 
 p {
     line-height: 1.5;
+    text-align: justify;
 }
 
 .subheading {
     display: block;
     font-size: 1rem;
-    color: #d0aaff;
+    color: #bee9e8;
 }
 
 .section-two h2 {
@@ -65,22 +66,22 @@ a:active {
 
 .btn-dark {
     color: whitesmoke;
-    background: #5f29a3;
+    background: #084c61;
 }
 
 .btn-mid {
-    color: #5f29a3; 
-    background: #f0e0ff; 
+    color: #084c61; 
+    background: #bee9e8; 
 }
 
 .btn-light {
-    color: #5f29a3; 
+    color: #084c61; 
     background: whitesmoke;
 }
 
 .btn:hover, 
 .btn:active {
-    color: #2b238a;
+    color: #084c61;
     background-color: #f3e885;
 }
 
@@ -94,7 +95,7 @@ footer {
 
 header, 
 .section-two {
-    background-color: #5f29a3;
+    background-color: #084c61;
 }
 
 .section-two {
@@ -122,6 +123,7 @@ header,
 
 .feature-image {
     width: 100%;
+    height: 400px;
     border-radius: 4.6px;
 }
 
@@ -129,9 +131,17 @@ header,
     flex: 1 260px;
 }
 
-footer {
+.house {
+    background: #bee9e8;
+}
+
+.accent-text {
+    color: #bee9e8;
+    text-shadow: 0 0 2px #f3e885;
+}
+footer p{
     text-align: center;
-    color: #5f29a3;
+    color: #084c61;
 }
 
 /* ----- NAVIGATION ----- */

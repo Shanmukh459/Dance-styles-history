@@ -1,21 +1,19 @@
-# co4b64509bf70e8244f27c504
+# Dance Styles history (Responsive site)
 
-Quick start:
+- This is a web application which contains the details of some of the popular styles in the western world
+- This application is build as a practice to implement Mobile-first design
+- So, the application is responsive and are styled to fit all the digital screens
 
-```
-$ npm install
-$ npm start
-````
+## Tech Used
+- JavaScript
+- HTML
+- CSS
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## Deployed at
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Screenshots
+
+
 
 Happy Coding!

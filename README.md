@@ -11,9 +11,22 @@
 
 ## Deployed at
 
+- https://dance-styles-history.vercel.app/
 
 ## Screenshots
 
+### Screenshots of mobile version
+
+![image](https://github.com/Shanmukh459/Dance-styles-history/assets/52078988/ed59ce0d-313d-47b9-ac89-6bf3d44287e5)
+
+![image](https://github.com/Shanmukh459/Dance-styles-history/assets/52078988/e97f26fa-834a-4c81-bced-f70467d36035)
+
+
+### Screenshots of desktop version
+
+![image](https://github.com/Shanmukh459/Dance-styles-history/assets/52078988/7327994d-f034-4ee3-9f55-ba8203008a5f)
+
+![image](https://github.com/Shanmukh459/Dance-styles-history/assets/52078988/e2603384-b19c-4f48-b92e-d51c8955c5ae)
 
 
 Happy Coding!
